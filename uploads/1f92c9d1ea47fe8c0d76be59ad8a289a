@@ -1,0 +1,8 @@
+dnidevopaws@gmail.com
+DNIdevopaws@20217
+
+257162240073
+
+C:\MongoDatabase\mongodb\bin/mongod.exe --dbpath=C:\MongoDatabase\mongodb-data
+
+git pull origin 22-regksh --allow-unrelated-histories
